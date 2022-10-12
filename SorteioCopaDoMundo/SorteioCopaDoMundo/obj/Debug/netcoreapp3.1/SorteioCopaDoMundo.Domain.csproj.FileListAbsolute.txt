@@ -1,0 +1,9 @@
+C:\work\projeto\sorteio-copa-do-mundo\SorteioCopaDoMundo\SorteioCopaDoMundo\bin\Debug\netcoreapp3.1\SorteioCopaDoMundo.Domain.deps.json
+C:\work\projeto\sorteio-copa-do-mundo\SorteioCopaDoMundo\SorteioCopaDoMundo\bin\Debug\netcoreapp3.1\SorteioCopaDoMundo.Domain.dll
+C:\work\projeto\sorteio-copa-do-mundo\SorteioCopaDoMundo\SorteioCopaDoMundo\bin\Debug\netcoreapp3.1\SorteioCopaDoMundo.Domain.pdb
+C:\work\projeto\sorteio-copa-do-mundo\SorteioCopaDoMundo\SorteioCopaDoMundo\obj\Debug\netcoreapp3.1\SorteioCopaDoMundo.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\work\projeto\sorteio-copa-do-mundo\SorteioCopaDoMundo\SorteioCopaDoMundo\obj\Debug\netcoreapp3.1\SorteioCopaDoMundo.Domain.AssemblyInfoInputs.cache
+C:\work\projeto\sorteio-copa-do-mundo\SorteioCopaDoMundo\SorteioCopaDoMundo\obj\Debug\netcoreapp3.1\SorteioCopaDoMundo.Domain.AssemblyInfo.cs
+C:\work\projeto\sorteio-copa-do-mundo\SorteioCopaDoMundo\SorteioCopaDoMundo\obj\Debug\netcoreapp3.1\SorteioCopaDoMundo.Domain.csproj.CoreCompileInputs.cache
+C:\work\projeto\sorteio-copa-do-mundo\SorteioCopaDoMundo\SorteioCopaDoMundo\obj\Debug\netcoreapp3.1\SorteioCopaDoMundo.Domain.dll
+C:\work\projeto\sorteio-copa-do-mundo\SorteioCopaDoMundo\SorteioCopaDoMundo\obj\Debug\netcoreapp3.1\SorteioCopaDoMundo.Domain.pdb
