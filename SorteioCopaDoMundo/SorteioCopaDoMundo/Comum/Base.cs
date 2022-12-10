@@ -8,6 +8,6 @@ namespace SorteioCopaDoMundo.Domain.Comum
     {
         public int Id { get; set; }
         public DateTime Criacao { get; set; }
-        public int Activo { get; set; }
+        public int Ativo { get; set; }
     }
 }

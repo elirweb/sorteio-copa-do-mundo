@@ -7,3 +7,4 @@ C:\work\projeto\sorteio-copa-do-mundo\SorteioCopaDoMundo\SorteioCopaDoMundo\obj\
 C:\work\projeto\sorteio-copa-do-mundo\SorteioCopaDoMundo\SorteioCopaDoMundo\obj\Debug\netcoreapp3.1\SorteioCopaDoMundo.Domain.csproj.CoreCompileInputs.cache
 C:\work\projeto\sorteio-copa-do-mundo\SorteioCopaDoMundo\SorteioCopaDoMundo\obj\Debug\netcoreapp3.1\SorteioCopaDoMundo.Domain.dll
 C:\work\projeto\sorteio-copa-do-mundo\SorteioCopaDoMundo\SorteioCopaDoMundo\obj\Debug\netcoreapp3.1\SorteioCopaDoMundo.Domain.pdb
+C:\work\projeto\sorteio-copa-do-mundo\SorteioCopaDoMundo\SorteioCopaDoMundo\obj\Debug\netcoreapp3.1\SorteioCopaDoMundo.Domain.csproj.AssemblyReference.cache

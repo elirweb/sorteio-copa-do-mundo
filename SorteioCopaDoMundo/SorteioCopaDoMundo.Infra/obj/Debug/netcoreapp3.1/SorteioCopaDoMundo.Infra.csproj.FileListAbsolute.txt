@@ -1,0 +1,13 @@
+C:\work\projeto\sorteio-copa-do-mundo\SorteioCopaDoMundo\SorteioCopaDoMundo.Infra\bin\Debug\netcoreapp3.1\SorteioCopaDoMundo.Infra.deps.json
+C:\work\projeto\sorteio-copa-do-mundo\SorteioCopaDoMundo\SorteioCopaDoMundo.Infra\bin\Debug\netcoreapp3.1\SorteioCopaDoMundo.Infra.dll
+C:\work\projeto\sorteio-copa-do-mundo\SorteioCopaDoMundo\SorteioCopaDoMundo.Infra\bin\Debug\netcoreapp3.1\SorteioCopaDoMundo.Infra.pdb
+C:\work\projeto\sorteio-copa-do-mundo\SorteioCopaDoMundo\SorteioCopaDoMundo.Infra\bin\Debug\netcoreapp3.1\SorteioCopaDoMundo.Domain.dll
+C:\work\projeto\sorteio-copa-do-mundo\SorteioCopaDoMundo\SorteioCopaDoMundo.Infra\bin\Debug\netcoreapp3.1\SorteioCopaDoMundo.Domain.pdb
+C:\work\projeto\sorteio-copa-do-mundo\SorteioCopaDoMundo\SorteioCopaDoMundo.Infra\obj\Debug\netcoreapp3.1\SorteioCopaDoMundo.Infra.csproj.AssemblyReference.cache
+C:\work\projeto\sorteio-copa-do-mundo\SorteioCopaDoMundo\SorteioCopaDoMundo.Infra\obj\Debug\netcoreapp3.1\SorteioCopaDoMundo.Infra.GeneratedMSBuildEditorConfig.editorconfig
+C:\work\projeto\sorteio-copa-do-mundo\SorteioCopaDoMundo\SorteioCopaDoMundo.Infra\obj\Debug\netcoreapp3.1\SorteioCopaDoMundo.Infra.AssemblyInfoInputs.cache
+C:\work\projeto\sorteio-copa-do-mundo\SorteioCopaDoMundo\SorteioCopaDoMundo.Infra\obj\Debug\netcoreapp3.1\SorteioCopaDoMundo.Infra.AssemblyInfo.cs
+C:\work\projeto\sorteio-copa-do-mundo\SorteioCopaDoMundo\SorteioCopaDoMundo.Infra\obj\Debug\netcoreapp3.1\SorteioCopaDoMundo.Infra.csproj.CoreCompileInputs.cache
+C:\work\projeto\sorteio-copa-do-mundo\SorteioCopaDoMundo\SorteioCopaDoMundo.Infra\obj\Debug\netcoreapp3.1\SorteioCopaDoMundo.Infra.csproj.CopyComplete
+C:\work\projeto\sorteio-copa-do-mundo\SorteioCopaDoMundo\SorteioCopaDoMundo.Infra\obj\Debug\netcoreapp3.1\SorteioCopaDoMundo.Infra.dll
+C:\work\projeto\sorteio-copa-do-mundo\SorteioCopaDoMundo\SorteioCopaDoMundo.Infra\obj\Debug\netcoreapp3.1\SorteioCopaDoMundo.Infra.pdb

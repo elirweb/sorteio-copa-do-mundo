@@ -1,0 +1,17 @@
+C:\work\projeto\sorteio-copa-do-mundo\SorteioCopaDoMundo\SorteioCopaDoMundo.IOC\bin\Debug\netcoreapp3.1\SorteioCopaDoMundo.IOC.deps.json
+C:\work\projeto\sorteio-copa-do-mundo\SorteioCopaDoMundo\SorteioCopaDoMundo.IOC\bin\Debug\netcoreapp3.1\SorteioCopaDoMundo.IOC.dll
+C:\work\projeto\sorteio-copa-do-mundo\SorteioCopaDoMundo\SorteioCopaDoMundo.IOC\bin\Debug\netcoreapp3.1\SorteioCopaDoMundo.IOC.pdb
+C:\work\projeto\sorteio-copa-do-mundo\SorteioCopaDoMundo\SorteioCopaDoMundo.IOC\obj\Debug\netcoreapp3.1\SorteioCopaDoMundo.IOC.csproj.AssemblyReference.cache
+C:\work\projeto\sorteio-copa-do-mundo\SorteioCopaDoMundo\SorteioCopaDoMundo.IOC\obj\Debug\netcoreapp3.1\SorteioCopaDoMundo.IOC.GeneratedMSBuildEditorConfig.editorconfig
+C:\work\projeto\sorteio-copa-do-mundo\SorteioCopaDoMundo\SorteioCopaDoMundo.IOC\obj\Debug\netcoreapp3.1\SorteioCopaDoMundo.IOC.AssemblyInfoInputs.cache
+C:\work\projeto\sorteio-copa-do-mundo\SorteioCopaDoMundo\SorteioCopaDoMundo.IOC\obj\Debug\netcoreapp3.1\SorteioCopaDoMundo.IOC.AssemblyInfo.cs
+C:\work\projeto\sorteio-copa-do-mundo\SorteioCopaDoMundo\SorteioCopaDoMundo.IOC\obj\Debug\netcoreapp3.1\SorteioCopaDoMundo.IOC.csproj.CoreCompileInputs.cache
+C:\work\projeto\sorteio-copa-do-mundo\SorteioCopaDoMundo\SorteioCopaDoMundo.IOC\obj\Debug\netcoreapp3.1\SorteioCopaDoMundo.IOC.dll
+C:\work\projeto\sorteio-copa-do-mundo\SorteioCopaDoMundo\SorteioCopaDoMundo.IOC\obj\Debug\netcoreapp3.1\SorteioCopaDoMundo.IOC.pdb
+C:\work\projeto\sorteio-copa-do-mundo\SorteioCopaDoMundo\SorteioCopaDoMundo.IOC\bin\Debug\netcoreapp3.1\SorteioCopaDoMundo.Aplication.dll
+C:\work\projeto\sorteio-copa-do-mundo\SorteioCopaDoMundo\SorteioCopaDoMundo.IOC\bin\Debug\netcoreapp3.1\SorteioCopaDoMundo.Domain.dll
+C:\work\projeto\sorteio-copa-do-mundo\SorteioCopaDoMundo\SorteioCopaDoMundo.IOC\bin\Debug\netcoreapp3.1\SorteioCopaDoMundo.Infra.dll
+C:\work\projeto\sorteio-copa-do-mundo\SorteioCopaDoMundo\SorteioCopaDoMundo.IOC\bin\Debug\netcoreapp3.1\SorteioCopaDoMundo.Aplication.pdb
+C:\work\projeto\sorteio-copa-do-mundo\SorteioCopaDoMundo\SorteioCopaDoMundo.IOC\bin\Debug\netcoreapp3.1\SorteioCopaDoMundo.Infra.pdb
+C:\work\projeto\sorteio-copa-do-mundo\SorteioCopaDoMundo\SorteioCopaDoMundo.IOC\bin\Debug\netcoreapp3.1\SorteioCopaDoMundo.Domain.pdb
+C:\work\projeto\sorteio-copa-do-mundo\SorteioCopaDoMundo\SorteioCopaDoMundo.IOC\obj\Debug\netcoreapp3.1\SorteioCopaDoMundo.IOC.csproj.CopyComplete

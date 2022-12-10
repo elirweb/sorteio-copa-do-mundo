@@ -3,15 +3,13 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.0.32014.148
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SorteioCopaDoMundo.Domain", "SorteioCopaDoMundo\SorteioCopaDoMundo.Domain.csproj", "{F2A5576B-CC45-461D-B183-9CC242AE13A8}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SorteioCopaDoMundo.Domain", "SorteioCopaDoMundo\SorteioCopaDoMundo.Domain.csproj", "{F2A5576B-CC45-461D-B183-9CC242AE13A8}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SorteioCopaDoMundo.DomainService", "SorteioCopaDoMundo.Domain.DomainService\SorteioCopaDoMundo.DomainService.csproj", "{83AD4773-C98C-499C-8992-1614C2614C2A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SorteioCopaDoMundo.Infra", "SorteioCopaDoMundo.Infra\SorteioCopaDoMundo.Infra.csproj", "{78EBE53D-797B-496F-A916-A684D95D17BE}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SorteioCopaDoMundo.Infra", "SorteioCopaDoMundo.Infra\SorteioCopaDoMundo.Infra.csproj", "{78EBE53D-797B-496F-A916-A684D95D17BE}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SorteioCopaDoMundo.IOC", "SorteioCopaDoMundo.IOC\SorteioCopaDoMundo.IOC.csproj", "{E5AFA145-82A9-4A1D-91F5-91758CDC4CD8}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SorteioCopaDoMundo.Util", "SorteioCopaDoMundo.Util\SorteioCopaDoMundo.Util.csproj", "{158886C1-82AD-4B24-A4B7-25EEEEBF6125}"
-EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SorteioCopaDoMundo.IOC", "SorteioCopaDoMundo.IOC\SorteioCopaDoMundo.IOC.csproj", "{E5AFA145-82A9-4A1D-91F5-91758CDC4CD8}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SorteioCopaDoMundo.Aplication", "SorteioCopaDoMundo.Aplication\SorteioCopaDoMundo.Aplication.csproj", "{AAB08B67-496F-49ED-815B-33C680A10589}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -23,22 +21,18 @@ Global
 		{F2A5576B-CC45-461D-B183-9CC242AE13A8}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F2A5576B-CC45-461D-B183-9CC242AE13A8}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F2A5576B-CC45-461D-B183-9CC242AE13A8}.Release|Any CPU.Build.0 = Release|Any CPU
-		{83AD4773-C98C-499C-8992-1614C2614C2A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{83AD4773-C98C-499C-8992-1614C2614C2A}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{83AD4773-C98C-499C-8992-1614C2614C2A}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{83AD4773-C98C-499C-8992-1614C2614C2A}.Release|Any CPU.Build.0 = Release|Any CPU
 		{78EBE53D-797B-496F-A916-A684D95D17BE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{78EBE53D-797B-496F-A916-A684D95D17BE}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{78EBE53D-797B-496F-A916-A684D95D17BE}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{78EBE53D-797B-496F-A916-A684D95D17BE}.Release|Any CPU.Build.0 = Release|Any CPU
-		{158886C1-82AD-4B24-A4B7-25EEEEBF6125}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{158886C1-82AD-4B24-A4B7-25EEEEBF6125}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{158886C1-82AD-4B24-A4B7-25EEEEBF6125}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{158886C1-82AD-4B24-A4B7-25EEEEBF6125}.Release|Any CPU.Build.0 = Release|Any CPU
 		{E5AFA145-82A9-4A1D-91F5-91758CDC4CD8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{E5AFA145-82A9-4A1D-91F5-91758CDC4CD8}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E5AFA145-82A9-4A1D-91F5-91758CDC4CD8}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{E5AFA145-82A9-4A1D-91F5-91758CDC4CD8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AAB08B67-496F-49ED-815B-33C680A10589}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AAB08B67-496F-49ED-815B-33C680A10589}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AAB08B67-496F-49ED-815B-33C680A10589}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AAB08B67-496F-49ED-815B-33C680A10589}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

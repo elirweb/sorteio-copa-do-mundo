@@ -1,0 +1,31 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "f2a5576b-cc45-461d-b183-9cc242ae13a8": {
+      "ProjectGuid": "f2a5576b-cc45-461d-b183-9cc242ae13a8",
+      "DisplayName": "SorteioCopaDoMundo.Domain",
+      "ColorIndex": 0
+    },
+    "83ad4773-c98c-499c-8992-1614c2614c2a": {
+      "ProjectGuid": "83ad4773-c98c-499c-8992-1614c2614c2a",
+      "DisplayName": "SorteioCopaDoMundo.DomainService",
+      "ColorIndex": 1
+    },
+    "78ebe53d-797b-496f-a916-a684d95d17be": {
+      "ProjectGuid": "78ebe53d-797b-496f-a916-a684d95d17be",
+      "DisplayName": "SorteioCopaDoMundo.Infra",
+      "ColorIndex": 2
+    },
+    "158886c1-82ad-4b24-a4b7-25eeeebf6125": {
+      "ProjectGuid": "158886c1-82ad-4b24-a4b7-25eeeebf6125",
+      "DisplayName": "SorteioCopaDoMundo.Util",
+      "ColorIndex": 3
+    },
+    "e5afa145-82a9-4a1d-91f5-91758cdc4cd8": {
+      "ProjectGuid": "e5afa145-82a9-4a1d-91f5-91758cdc4cd8",
+      "DisplayName": "SorteioCopaDoMundo.IOC",
+      "ColorIndex": 4
+    }
+  },
+  "NextColorIndex": 5
+}
